@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <parent>
+        <artifactId>pi4j-experiments</artifactId>
+        <groupId>by.vlas.pi</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>orangepi-zero-test0</artifactId>
+    <packaging>jar</packaging>
+
+    <properties>
+        <!-- project specific properties -->
+        <main-class>${main-class-default}</main-class>
+        <!--<main-class>Test1</main-class>-->
+
+    </properties>
+
+
+</project>

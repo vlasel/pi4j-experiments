@@ -1,0 +1,52 @@
+#.DS_Store
+
+#IDEA project files
+*.iml
+*.ipr
+*.iws
+.idea/
+.shelf/
+out/
+
+# Generated files
+bin/
+gen/
+gen-src/
+
+# Java class files
+*.class
+
+#Build
+build/
+/*/build/
+target/
+/*/target/
+dist/
+
+# Gradle files
+.gradle/
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+
+
+## Android ----------------------------
+# Built application files (Android)
+*.apk
+*.ap_
+
+# Files for the Dalvik VM
+*.dex
+## -----------------------------------
+
+# Local configuration file (sdk path, etc)
+#local.properties
+
+# Log Files
+*.log
+
+# Ignore Gradle GUI config
+#gradle-app.setting
+
+/src/main/webapp/WEB-INF/jsp/rev.jsp
